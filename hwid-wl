@@ -1,2 +1,3 @@
 test
 holdmepleasedontletgo: 089926f3-788f-4def-9d04-8687cb50f9b3
+holdmedontletgo: setclipboard(game:GetService("RbxAnalyticsService"):GetClientId())
